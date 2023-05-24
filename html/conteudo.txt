@@ -1,2 +1,33 @@
 1 - introdução:
 explicação sobre o que é html, front-end e elementos mais basicos no html e estrutura do corpo.
+
+2 - criando a primeira pagina html:
+se aprofundando na estrutura e inserindo o primeiro paragrafo.
+
+3 - principais tags html
+cabeçalho: <h1></h1> <h2></h2> <h3></h3> <h4></h4> <h5></h5> <h6></h6>
+paragrafo: <p></p> e dica do lorem
+divisor de linha: <br>
+links: <a href=""></a> e target: _self, _blank, _parent
+
+4 - principais tags html - parte 2
+imagens: <img src="" alt="" width="">
+listas:
+nao numerada (ordenada): <ul><li></li></ul>
+lista numerada (ordenada): <ol><li></li></ol>
+tag de uso genérico: <span></span> inline e <div></div> block
+
+5 - tags de formatação de texto
+negrito (b, strong)
+italico (i, em)
+sublinhado (u)
+riscado (s)
+texto marcado (mark)
+texto pre-formatado (pre)
+codigo (code)
+citação (cite ou blockquote)
+subscrito (sup) em cima
+sobrescrito (sub) em baixo
+
+
+
