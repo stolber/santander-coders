@@ -82,8 +82,6 @@ Podemos criar listas não numeradas (unordered) usando a tag `<ul>` e listas num
 ```html
 <ul>
     <li>Item 1</li>
-
-
     <li>Item 2</li>
 </ul>
 
@@ -123,7 +121,7 @@ HTML5 introduziu uma série de elementos semânticos que ajudam a estruturar o c
 
 - `<header>`: Define o cabeçalho da página ou de uma seção.
 - `<main>`: Define o conteúdo principal da página.
-- `<aside>`: Define um conteúdo lateral, como uma barra lateral.
+- `<aside>`: Define um conteúdo lateral, como uma barra lateral ou assunto não relacionado ao conteúdo.
 - `<footer>`: Define o rodapé da página ou de uma seção.
 - `<section>`: Define uma seção dentro de um documento.
 - `<article>`: Define um conteúdo independente e autossuficiente.
@@ -170,9 +168,7 @@ As tabelas são usadas para exibir dados em formato de linhas e colunas. Elas s�
             <td>Dado 3</td>
         </tr>
     </tbody>
-</table
-
->
+</table>
 ```
 
 ## 📝 9. Formulários
