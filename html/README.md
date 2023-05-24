@@ -65,7 +65,7 @@ Os links são usados para criar hiperlinks para outras páginas ou recursos na w
 
 Podemos definir o atributo `target` para determinar como o link deve ser aberto. Os valores mais comuns são `_self`, `_blank` e `_parent`.
 
-### Principais Tags HTML - Parte 2
+## 🏷️ 4. Principais Tags HTML - Parte 2
 
 ### Imagens
 
