@@ -29,5 +29,43 @@ citação (cite ou blockquote)
 subscrito (sup) em cima
 sobrescrito (sub) em baixo
 
+6 - elementos semanticos
+explicação breve sobre cada um:
+header, main, aside, footer, section, article, figure, nav.
+
+7 - construindo barra de navegação
+nav, imagem, lista com link
+
+8 - tabelas 
+explicar o que é table, thead, tbody, tr, th e td.
+
+EX: inserir cabeçalho com h2
+<table border="1">
+	<thead> cabeçalho da tabela
+		<tr>cria linha
+			<th> primeiro cabeçalho
+			<th> segundo cabeçalho
+			<th> terceiro cabeçalho
+	<tbody> corpo da tabela
+		<tr>
+			<td> primeiro dado
+			<td> segundo dado
+			<td> terceiro dado 
+		<tr>
+			<td> primeiro dado
+			<td> segundo dado
+			<td> terceiro dado 
+		<tr>
+			<td> primeiro dado
+			<td> segundo dado
+			<td> terceiro dado 
+
+explicar o que é table, thead, tbody, tr, th e td.
+
+9 - Formulários
+form, input (atributos: type, text, placeholder, value, name, password, email, number, checkbox, date,time,file,url, text-area, submit, select
+
+
+
 
 
